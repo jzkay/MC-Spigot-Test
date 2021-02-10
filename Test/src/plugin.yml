@@ -1,0 +1,5 @@
+name: Test
+author: jayzeekay
+version: 1.0
+main: me.jayzeekay.Test.Test
+description: Test plugin
